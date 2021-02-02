@@ -113,6 +113,7 @@
 		BE3C15062589B51500E0B9E0 = {
 			isa = PBXGroup;
 			children = (
+				BEF394A225C92C99001E0EA4 /* LICENSE.txt */,
 				BE3C15112589B51500E0B9E0 /* LandmarksApp */,
 				BE3C15102589B51500E0B9E0 /* Products */,
 			);
@@ -202,7 +203,6 @@
 		BEF394A125C92C99001E0EA4 /* LICENSE */ = {
 			isa = PBXGroup;
 			children = (
-				BEF394A225C92C99001E0EA4 /* LICENSE.txt */,
 			);
 			path = LICENSE;
 			sourceTree = "<group>";
